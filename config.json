@@ -1,0 +1,15 @@
+{
+  "thresholds": {
+    "cpu": 80,
+    "ram": 80,
+    "disk": 85,
+    "net": 1000000000
+  },
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "your_email@gmail.com",
+  "smtp_password": "your_app_password",
+  "recipients": [
+    "admin@example.com"
+  ]
+}
